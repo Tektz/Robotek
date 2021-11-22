@@ -13,4 +13,7 @@ Youtube channel: Youtube: https://youtu.be/BOJW7O_lG8Q
 6.	IR remote control
 7.	Jumper wires
 
+![robotek-robort arm (2)](https://user-images.githubusercontent.com/34957383/142870773-b713dfeb-bfce-46d1-856e-0a0f7b3afb5e.jpg)
+
+
 Preview this project progress on Youtube: https://youtu.be/BOJW7O_lG8Q
